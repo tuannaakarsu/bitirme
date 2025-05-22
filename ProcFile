@@ -1,2 +1,2 @@
-web: gunicorn
-sunucu:app
+web: gunicorn sunucu:app
+
