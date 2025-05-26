@@ -6,7 +6,7 @@ from flask_cors import CORS
 from anakod import run_virtual_tryon_auto
 from flask import Flask ,request, jsonify , send_file , send_from_directory , make_response
 
-app = Flask(__name__ , static_folder='tumkatalog')
+app = Flask(__name__ , static_folder='tumkatalog/tumkatalog')
 CORS(app)
 
 @app.route('/vton', methods=['POST'])
