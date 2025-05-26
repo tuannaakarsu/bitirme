@@ -1,0 +1,4 @@
+Best Validation Accuracy:	0.87% at Epoch 42
+Test Accuracy:	0.87%
+Inference Speed:	11.56 samples/sec
+Epoch	loss_t	accuracy_t	loss_v	accuracy_v

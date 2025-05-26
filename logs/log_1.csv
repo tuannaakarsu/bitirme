@@ -1,0 +1,9 @@
+Best Validation Accuracy:	
+Test Accuracy:	
+Inference Speed:	
+Epoch	loss_t	accuracy_t	loss_v	accuracy_v
+1	0.0000	0.8648	0.0000	1.0000
+2	0.0000	1.0000	0.0000	1.0000
+3	0.0000	1.0000	0.0000	1.0000
+4	0.0000	1.0000	0.0000	1.0000
+5	0.0000	1.0000	0.0000	1.0000
