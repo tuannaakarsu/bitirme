@@ -6,7 +6,7 @@ from flask_cors import CORS
 from anakod import run_virtual_tryon_auto
 from flask import Flask ,request, jsonify , send_file , send_from_directory , make_response
 
-app = Flask(__name__ , static_folder='tumkatalog/tumkatalog')
+app = Flask(__name__ , static_folder='tumkatalog')
 CORS(app)
 
 @app.route('/vton', methods=['POST'])
@@ -20,7 +20,7 @@ def vton():
             if not kullanici_verisi:
                 return jsonify({"error": "clothes alanı eksik"}), 400
 
-            ngrok_url = "https://a52b-78-183-92-13.ngrok-free.app"
+            ngrok_url = "https://5572-81-214-127-142.ngrok-free.app"
             oneriler = oneri_uret(kullanici_verisi,ngrok_url)
             return jsonify({"oneriler": oneriler}), 200
 
