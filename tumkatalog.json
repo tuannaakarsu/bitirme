@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "name": "Beyaz Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun1.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "Siyah Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Mavi Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Yeşil Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Kırmızı Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Oversize Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun6.jpg"
+    },
+    {
+        "id": "7",
+        "name": "V Yaka Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun7.jpeg"
+    },
+    {
+        "id": "8",
+        "name": "Kapüşonlu Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun8.jpeg"
+    },
+    {
+        "id": "9",
+        "name": "Baskılı Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun9.jpeg"
+    },
+    {
+        "id": "10",
+        "name": "Çizgili Tişört",
+        "category": "tişört",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun10.jpeg"
+    },
+    {
+        "id": "11",
+        "name": "Kot Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun11.jpeg"
+    },
+    {
+        "id": "12",
+        "name": "Siyah Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun12.jpeg"
+    },
+    {
+        "id": "13",
+        "name": "Bej Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun13.jpeg"
+    },
+    {
+        "id": "14",
+        "name": "Bol Kesim Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun14.jpeg"
+    },
+    {
+        "id": "15",
+        "name": "Kumaş Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun15.jpeg"
+    },
+    {
+        "id": "16",
+        "name": "Yüksek Bel Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun16.jpeg"
+    },
+    {
+        "id": "17",
+        "name": "Kargo Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun17.jpeg"
+    },
+    {
+        "id": "18",
+        "name": "Dar Paça Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun18.jpeg"
+    },
+    {
+        "id": "19",
+        "name": "Keten Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun19.jpeg"
+    },
+    {
+        "id": "20",
+        "name": "Şalvar Pantolon",
+        "category": "pantolon",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun20.jpeg"
+    },
+    {
+        "id": "21",
+        "name": "Kırmızı Elbise",
+        "category": "elbise",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun21.jpeg"
+    },
+    {
+        "id": "22",
+        "name": "Çiçekli Elbise",
+        "category": "elbise",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun22.jpeg"
+    },
+    {
+        "id": "23",
+        "name": "Uzun Elbise",
+        "category": "elbise",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun23.jpeg"
+    },
+    {
+        "id": "24",
+        "name": "Askılı Elbise",
+        "category": "elbise",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun24.jpeg"
+    },
+    {
+        "id": "25",
+        "name": "Siyah Elbise",
+        "category": "elbise",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun25.jpeg"
+    },
+    {
+        "id": "26",
+        "name": "Siyah Etek",
+        "category": "etek",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun26.jpeg"
+    },
+    {
+        "id": "27",
+        "name": "Mini Etek",
+        "category": "etek",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun27.jpeg"
+    },
+    {
+        "id": "28",
+        "name": "Pileli Etek",
+        "category": "etek",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun28.jpeg"
+    },
+    {
+        "id": "29",
+        "name": "Kot Etek",
+        "category": "etek",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun29.jpeg"
+    },
+    {
+        "id": "30",
+        "name": "Kalem Etek",
+        "category": "etek",
+        "image_path": "https://5572-81-214-127-142.ngrok-free.app/tumkatalog/urun30.jpeg"
+    }
+]
